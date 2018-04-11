@@ -1,0 +1,17 @@
+﻿Risultato finale a schermo? Applicazione web
+ricercatori: almeno 1senior o 1junior...no limite
+
+Il team leader e il respons di area fanno parte dei ricercatori? 
+Più team leader nella stessa area e un solo resp di area
+
+Progetto: inizio, fine, titolo, budget
+
+Ricercatori: senior stipendio fisso+bonus, junior solo fisso
+
+Un team ha un solo progetto
+
+Il ricercatore non può essere crossarea, il ricercatore non può seguire + progetti
+
+Creare aree, ricercatori, progetti e mettere assieme i team
+
+Chiusura finale progetto per liberare i team
