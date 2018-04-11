@@ -1,8 +1,14 @@
 
 public class Junior extends Ricercatori {
-	
-	public float getSalary(Float basicSalary) {
-		return basicSalary;
+
+	public Junior(String id) {
+		super(id);
 	}
+
+	@Override
+	public String toString() {
+		return "Junior [Nome=" + id + "]";
+	}
+	
 	
 }

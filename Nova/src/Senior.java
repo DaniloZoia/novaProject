@@ -1,5 +1,10 @@
 
 public class Senior extends Ricercatori {
+	
+	public Senior(String id) {
+		super(id);
+	}
+
 	Float bonus;
 
 	public Float getBonus() {
@@ -13,4 +18,11 @@ public class Senior extends Ricercatori {
 	public float getSalary(Float bonus, Float basicSalary) {
 		return bonus + basicSalary;
 	}
+
+	@Override
+	public String toString() {
+		return "Senior [Nome=" + id + "]";
+	}
+	
+	
 }
